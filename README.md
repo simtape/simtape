@@ -4,8 +4,6 @@
 ### About me :man_student:
 My name is Simone and i'm a student from Italy. Currently i'm studying a master's degree in software system security.
 
-### Languages and Tools :computer: :wrench:
-
 
 ### My stats :stuck_out_tongue_winking_eye:
 ![Simtape's GitHub stats](https://github-readme-stats.vercel.app/api?username=simtape&show_icons=true&theme=radical)
