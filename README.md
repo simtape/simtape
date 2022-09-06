@@ -2,7 +2,7 @@
 
 
 ### About me :man_student:
-My name is Simone and i'm a student from Italy. Currently i'm attending a master's degree in software system security.
+My name is Simone and i'm a student from Italy. Currently i'm studying a master's degree in software system security.
 
 ### Languages and Tools :computer: :wrench:
 
